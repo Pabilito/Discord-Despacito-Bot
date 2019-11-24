@@ -1,2 +1,2 @@
 # Discord-Despacito-Bot
-JS
+Created in JavaScript. Used to annoy people on your discord channel.
